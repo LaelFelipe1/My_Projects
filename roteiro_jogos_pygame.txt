@@ -1,0 +1,27 @@
+# Inicialização do Pygame
+
+# Definição das cores
+
+# Definição das dimensões da tela
+
+# Configuração da tela
+
+# Função para desenhar a cobra
+
+# Função para gerar comida em uma posição aleatória
+
+# Movimentos
+
+# Função principal
+
+# Verificação de colisão com a parede
+
+# Verificação de colisão com a própria cobra
+
+# Verificação de colisão com a comida
+
+# Atualizar a tela
+
+# Configurar a taxa de quadros por segundo (FPS)
+
+# Executar o jogo
